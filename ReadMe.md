@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @VanshTomar1303<br>👀 I’m interested in developing apps and watch anime<br>🌱 I’m currently learning android development<br>💞️ I’m looking to collaborate on projects<br>😄 Pronouns: he/him<br>⚡ Fun fact: Shouai Shingan
+👋 Hi, I’m @VanshTomar1303<br>👀 I’m interested in developing apps and watch anime<br>🌱 I’m currently learning android development<br>💞️ I’m looking to collaborate on projects<br>😄 Pronouns: he/him<br>⚡ Fun fact: Shingan Souai
 
 
 ## 🌐 Socials:
