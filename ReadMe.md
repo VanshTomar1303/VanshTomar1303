@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @VanshTomar1303<br>👀 I’m interested in developing apps, website and watch anime<br>🌱 I’m currently learning spring boot, mern and android development<br>💞️ I’m looking to collaborate on projects<br>😄 Pronouns: he/him<br>⚡ Fun fact: Shingan Souai
+👋 Hi, I’m @VanshTomar1303<br>👀 I’m interested in developing apps, website and watch anime<br>🌱 I’m currently learning spring boot, mern and android development<br>💞️ I’m looking to collaborate on projects<br>⚡ Fun fact: I'm a human
 
 
 ## 🌐 Socials:
